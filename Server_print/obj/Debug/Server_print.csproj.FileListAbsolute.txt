@@ -1,0 +1,7 @@
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\bin\Debug\Server_print.exe.config
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\bin\Debug\Server_print.exe
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\bin\Debug\Server_print.pdb
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\obj\Debug\Server_print.csprojResolveAssemblyReference.cache
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\obj\Debug\Server_print.csproj.ResolveComReference.cache
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\obj\Debug\Server_print.exe
+c:\users\air\documents\visual studio 2017\Projects\Server_print\Server_print\obj\Debug\Server_print.pdb
